@@ -38,10 +38,7 @@ let CMproxyIPs = [
 	'proxyip.hk.fxxk.dedyn.io:HK',
 	'proxyip.fxxk.dedyn.io:US',
 	'proxyip.sg.fxxk.dedyn.io:SG',
-	'proxyip.jp.fxxk.dedyn.io:JP',
-	'proxyip.aliyun.fxxk.dedyn.io',
-	'proxyip.oracle.fxxk.dedyn.io',
-	'proxyip.digitalocean.fxxk.dedyn.io',
+	'proxyip.jp.fxxk.dedyn.io:JP',	
 ]
 let socks5DataURL = '';//'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/socks5Data'
 let BotToken ='';
