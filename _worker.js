@@ -35,10 +35,7 @@ let proxyIPs = [//无法匹配到节点名就随机分配以下ProxyIP域名
 	
 ];
 let CMproxyIPs = [
-	'proxyip.hk.fxxk.dedyn.io:HK',
-	'proxyip.fxxk.dedyn.io:US',
-	'proxyip.sg.fxxk.dedyn.io:SG',
-	'proxyip.jp.fxxk.dedyn.io:JP',	
+	'',//'proxyip.hk.fxxk.dedyn.io:HK',	
 ]
 let socks5DataURL = '';//'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/socks5Data'
 let BotToken ='';
