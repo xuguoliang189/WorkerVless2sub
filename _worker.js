@@ -20,7 +20,7 @@ let addressesnotlsapi = [
 	 //可参考内容格式 自行搭建。
 ];
 
-let DLS = 8;//速度下限
+let DLS = 15;//速度下限
 let addressescsv = [
 	//'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressescsv.csv', //iptest测速结果文件。
 ];
